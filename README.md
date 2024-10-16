@@ -82,15 +82,15 @@ xnor(xnorgate,a,b);
 endmodule
 ```
  
-**Logic symbol & Truthtable**
-![Screenshot 2024-08-28 113932](https://github.com/user-attachments/assets/f6615772-cb4e-4d60-8cc9-522f2a94978e)
-
-**RTL RE
+## **RTL realization Output:** 
 ![Screenshot 2024-08-28 113828](https://github.com/user-attachments/assets/94349bcc-ed58-4de2-be41-1c7bff226eaf)
-alization Output:** 
+
 
 **RTL**
+![Screenshot 2024-08-28 113932](https://github.com/user-attachments/assets/f6615772-cb4e-4d60-8cc9-522f2a94978e)
+
 
 **Result:**
+The program is verified successfully using the software quartus prime.
 
 
